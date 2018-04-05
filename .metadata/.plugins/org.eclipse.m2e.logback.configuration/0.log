@@ -1,0 +1,28 @@
+2018-04-04 16:48:15,421 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-04 16:51:43,906 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-04 16:51:49,299 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mysql:mysql-connector-java:@MYSQL_CJ_VERSION@ @ D:\Java\EpamTraining\phonebook_build_1_with_NO_phone_editing\mysql-connector-java-5.1.46\src\doc\sources\pom.xml.
+2018-04-04 16:51:52,523 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sources/src/main/java
+2018-04-04 16:51:52,525 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sources/src/test/java
+2018-04-04 16:51:52,776 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2018-04-04 16:51:53,096 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:51:53,099 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\phonebook_build_1_with_NO_phone_editing\mysql-connector-java-5.1.46\src\doc\sources\src\main\resources
+2018-04-04 16:51:53,102 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:51:53,103 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\phonebook_build_1_with_NO_phone_editing\mysql-connector-java-5.1.46\src\doc\sources\src\test\resources
+2018-04-04 16:52:36,284 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-04 16:52:36,383 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mysql:mysql-connector-java:@MYSQL_CJ_VERSION@ @ D:\Java\EpamTraining\HT2\mysql-connector-java-5.1.46.zip_expanded\mysql-connector-java-5.1.46\src\doc\sources\pom.xml.
+2018-04-04 16:52:36,738 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /doc_sources/src/main/java
+2018-04-04 16:52:36,738 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /doc_sources/src/test/java
+2018-04-04 16:52:36,858 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-04-04 16:52:37,022 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:52:37,023 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\HT2\mysql-connector-java-5.1.46.zip_expanded\mysql-connector-java-5.1.46\src\doc\sources\src\main\resources
+2018-04-04 16:52:37,026 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:52:37,026 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\HT2\mysql-connector-java-5.1.46.zip_expanded\mysql-connector-java-5.1.46\src\doc\sources\src\test\resources
+2018-04-04 16:53:28,704 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-04 16:53:33,679 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:53:33,721 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\HT2\mysql-connector-java-5.1.46.zip_expanded\mysql-connector-java-5.1.46\src\doc\sources\src\main\resources
+2018-04-04 16:53:33,724 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:53:33,726 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\HT2\mysql-connector-java-5.1.46.zip_expanded\mysql-connector-java-5.1.46\src\doc\sources\src\test\resources
+2018-04-04 16:53:35,166 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:53:35,168 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\phonebook_build_1_with_NO_phone_editing\mysql-connector-java-5.1.46\src\doc\sources\src\main\resources
+2018-04-04 16:53:35,173 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-04 16:53:35,174 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\EpamTraining\phonebook_build_1_with_NO_phone_editing\mysql-connector-java-5.1.46\src\doc\sources\src\test\resources
